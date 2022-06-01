@@ -14,10 +14,12 @@ JSON
  7. Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON.
 >vim new.json
 >{
->    "name" : "Nabokin Sergey",
->    "age" : 28,
->    "pets" : 0,
->    "future salary" : 1000
+>  "surname": "Yarovenko",
+>  "name": "Alexander",
+>>  "patronymic": "Yarovenko",
+>  "age": 34,
+>  "pets": 0,
+>  "future salary": "1000$"
 >}
  8. Отправить изменения на внешний репозиторий.
  9. Создать файл preferences.json

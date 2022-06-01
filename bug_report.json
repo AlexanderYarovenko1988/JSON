@@ -1,4 +1,5 @@
-{ "Summary" : "In CTR (Click through ratio) ‘Total’ row calculation is wrong",
+{ 
+ "Summary" : "In CTR (Click through ratio) ‘Total’ row calculation is wrong",
  "Product" : "Example product",
  "Version" : 1.0,
  "Platform" : "PC",

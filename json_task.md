@@ -1,16 +1,12 @@
 JSON
  1. Создать внешний репозиторий c названием JSON.
->GitHub -> Create New Repository JSON
- 
+>GitHub -> Create New Repository JSON 
  2. Клонировать репозиторий JSON на локальный компьютер.
->git clone git@github.com:AlexanderYarovenko1988/JSON.git
- 
+>git clone git@github.com:AlexanderYarovenko1988/JSON.git 
  3. Внутри локального JSON создать файл “new.json”.
 >cd JSON && touch new.json
- 
  4. Добавить файл под гит.
- 
- 
+> git add new.json
  5. Закоммитить файл.
  6. Отправить файл на внешний GitHub репозиторий.
  7. Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON.
